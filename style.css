@@ -1,3 +1,24 @@
 body {
-    background-color: cyan;
+    background-color: white;
+}
+#firstpicture {
+border-color:yellow;
+border-width: 2px;
+border-style:solid;
+display:inline-block;
+box-shadow: 10px 10px 10px yellow , 10px 10px 10px red;
+}
+.redlink:hover:hover {
+    color:red;
+}
+
+.redlink:hover {
+    color:red;
+}
+
+#form {
+    display: flex;
+    border: 10px;
+    border-color: red;
+     
 }
